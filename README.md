@@ -9,8 +9,6 @@ This is the last project for the **AI Programming with Python** Nanodegree progr
 
 The project used **Pytorch** to implement **transfer learning** to take advantage of pre-trained densenet161 model to do **flower classification**, where there are 102 classes of flowers in dataset
 
----  
-
 Here is the project file [Flower_Classifier-zh.ipynb](Flower_Classifier-zh.ipynb)   
 Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
 
