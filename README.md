@@ -12,4 +12,5 @@ Here is the project file [Flower_Classifier-zh.ipynb](Flower_Classifier-zh.ipynb
 
 Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
 
+Here is the Certificate for the Course Completion.
 ![alt text][image]
