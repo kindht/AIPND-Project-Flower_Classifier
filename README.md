@@ -1,5 +1,5 @@
 # 人工智能编程基础 (纳米学位）- 项目 - 花卉品种分类 
-# AI Programming Nanodegree - Project - Flower Classification
+# AI Programming ND - Project - Flower Classification
 
 [//]: # (Image References)
 [image1]: ./example.png
