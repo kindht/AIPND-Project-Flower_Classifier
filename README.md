@@ -12,11 +12,9 @@ The project used **Pytorch** to implement **transfer learning** to take advantag
 Here is the project file [Flower_Classifier-zh.ipynb](Flower_Classifier-zh.ipynb)   
 Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
 
-------
-## Example output 
+#### Example output 
 
 ![alt text][image1]
 
-------
-## Here is the Certificate for the Course Completion.
+#### Here is the Certificate for the Course Completion.
 ![alt text][image2]
