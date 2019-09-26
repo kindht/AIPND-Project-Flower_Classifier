@@ -18,5 +18,5 @@ Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
 ![alt text][image1]
 
 ---
-#### Here is the Certificate for the Course Completion.
+#### Certificate for the Course Completion
 ![alt text][image2]
